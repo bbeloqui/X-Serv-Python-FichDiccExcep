@@ -1,3 +1,6 @@
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
+
 fd = open('/etc/passwd', 'r')
 
 lineas = fd.readlines()
